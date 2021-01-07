@@ -2,7 +2,7 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: Arial;
-  background-color: #6c178d;
+  background-color:white;
 }
 
 img {
@@ -23,7 +23,7 @@ div {
   float: left;
   padding: 20px 0px;
   margin-bottom:20px;
-  background: #c5420e;
+  background:#e0790b;
   border-bottom: 2px solid #000;
   position: fixed;
   z-index: 1;
@@ -35,7 +35,7 @@ div {
 }
 
 .first{
-  color:Orange
+  color:white;
 }
 
 .logo {
@@ -69,12 +69,10 @@ div {
 
 .menu ul li a{
   text-decoration: none;
-  color: orange;
+  color: BLACK;
 }
 
-.menu ul li.first a{
-  color: black;
-}
+
 
 
 .banner {
@@ -120,7 +118,7 @@ div {
 .text {
   float: left;
   margin: 0px;
-  color: #999898;
+  color: #FE9B00;
 }
 
 .link {
@@ -149,7 +147,7 @@ div {
   border-bottom: 2px solid;
 }
 .link2{
-  color: #fe9b00;
+  color: black;
   text-decoration: none;
 }
 
@@ -322,3 +320,4 @@ div {
 .text2 ul li.font a{
   color: #808080;
 }
+
